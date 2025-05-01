@@ -1,0 +1,22 @@
+body {
+    background: white;
+    font-family: sans-serif;
+    text-align: center;
+    
+  }
+
+button{
+    background: white;
+    padding: 8px;
+}
+
+
+div.container{
+    display: inline-block;
+    text-align: left;
+}
+
+.container-two{
+    text-align: center;
+    list-style-position: inside;
+}
